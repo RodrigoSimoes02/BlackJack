@@ -1,0 +1,44 @@
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\bin\Debug\BlackJack.exe.config
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\bin\Debug\BlackJack.exe
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\bin\Debug\BlackJack.pdb
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\MainWindow.g.cs
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\App.g.cs
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack_MarkupCompile.cache
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack_MarkupCompile.lref
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\MainWindow.baml
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack.g.resources
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack.exe
+\\mtsrvfile1\ALUNOS_PROFILES$\a41250\Documents\repo\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\App.g.cs
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\BlackJack_MarkupCompile.cache
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\BlackJack_MarkupCompile.lref
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\BlackJack.g.resources
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Rodrigo Simoes\Desktop\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\a41250\Desktop\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\a41250\Desktop\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\a41250\Desktop\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\MainWindow.g.cs
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\App.g.cs
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack_MarkupCompile.cache
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack_MarkupCompile.lref
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\MainWindow.baml
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack.g.resources
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\a41250\Desktop\BlackJack\obj\Debug\BlackJack.pdb
